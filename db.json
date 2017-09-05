@@ -10,9 +10,9 @@
   },
   "users": [
     {
-      "id" : 1,
-      "Name" : "Robert"
-      "Age" : "24"
+      "id": 1,
+      "Name": "Robert",
+      "Age": "24",
       "Company": "Netelek"
     }
     ]
