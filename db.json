@@ -1,24 +1,25 @@
 {
+  "project":
   {
-"project" : [
-  {
-    "deleted": true,
-    "id" : 16,
-    "description": "Standard Bank",
-    "devicesWSLocation": "www.example.com",
-    "groupingList": {"groupingList": []},
-    "poll": true,
-    "reconPercentage": 19
-},
-  {
-    "deleted": false,
-    "id" : 8,
-    "description": "NedBank",
-    "devicesWSLocation": "www.example2.com",
-    "groupingList": {"groupingList": []},
-    "poll": true,
-    "reconPercentage": 27
+  "project" : [
+    {
+      "deleted": true,
+      "id" : 16,
+      "description": "Standard Bank",
+      "devicesWSLocation": "www.example.com",
+      "groupingList": {"groupingList": []},
+      "poll": true,
+      "reconPercentage": 19
+  },
+    {
+      "deleted": false,
+      "id" : 8,
+      "description": "NedBank",
+      "devicesWSLocation": "www.example2.com",
+      "groupingList": {"groupingList": []},
+      "poll": true,
+      "reconPercentage": 27
+    }
+    ]
   }
-  ]
- }
 }
