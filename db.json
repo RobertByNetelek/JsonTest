@@ -5,10 +5,7 @@
     "id" : 16,
     "description": "Standard Bank",
     "devicesWSLocation": "www.example.com",
-    "groupingList": {
-                      "groupingList": [
-    ]
-  },
+    "groupingList": {"groupingList": []},
     "poll": true,
     "reconPercentage": 19
 },
@@ -17,10 +14,7 @@
     "id" : 8,
     "description": "NedBank",
     "devicesWSLocation": "www.example2.com",
-    "groupingList": {
-                      "groupingList": [
-    ]
-  },
+    "groupingList": {"groupingList": []},
     "poll": true,
     "reconPercentage": 27
   }
