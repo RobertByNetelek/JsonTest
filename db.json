@@ -9,7 +9,7 @@
                       "groupingList": [
     ]
   },
-    "poll": NULL,
+    "poll": true,
     "reconPercentage": 19
 },
   {
